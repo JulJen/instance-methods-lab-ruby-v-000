@@ -21,6 +21,9 @@ class Dog
       puts "The Dog is sitting"
     end
 end
+
+# class Dog
+# 
 #   def name=(dogs_name)
 #     @this_dogs_name = dogs_name
 #   end
